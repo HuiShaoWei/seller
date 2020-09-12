@@ -1,0 +1,2 @@
+webpackJsonp([23],{DWHB:function(e,n,t){"use strict";Object.defineProperty(n,"__esModule",{value:!0});var a={render:function(){var e=this.$createElement;return(this._self._c||e)("div",{staticClass:"management"},[this._v("\n  项目管理\n")])},staticRenderFns:[]};var r=t("VU/8")({name:"Management",data:function(){return{}}},a,!1,function(e){t("EQa1")},"data-v-512f7234",null);n.default=r.exports},EQa1:function(e,n){}});
+//# sourceMappingURL=23.48ca02de2bf7534ffe87.js.map

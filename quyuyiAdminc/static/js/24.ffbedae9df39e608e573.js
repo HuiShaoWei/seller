@@ -1,0 +1,2 @@
+webpackJsonp([24],{OPnq:function(e,n,t){"use strict";Object.defineProperty(n,"__esModule",{value:!0});var r={render:function(){var e=this.$createElement;return(this._self._c||e)("div",[this._v("\n  促销管理\n")])},staticRenderFns:[]};var i=t("VU/8")({name:"promotion"},r,!1,function(e){t("XfGL")},"data-v-37681487",null);n.default=i.exports},XfGL:function(e,n){}});
+//# sourceMappingURL=24.ffbedae9df39e608e573.js.map
